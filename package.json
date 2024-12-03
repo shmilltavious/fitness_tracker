@@ -1,0 +1,17 @@
+{
+    "name": "fitness-tracker",
+    "version": "1.0.0",
+    "description": "Web-based fitness tracking application",
+    "main": "index.html",
+    "scripts": {
+      "start": "npx http-server",
+      "lint": "eslint js/*.js"
+    },
+    "keywords": ["fitness", "tracking", "workout"],
+    "author": "Your Name",
+    "license": "MIT",
+    "devDependencies": {
+      "http-server": "^14.1.1",
+      "eslint": "^8.36.0"
+    }
+  }
